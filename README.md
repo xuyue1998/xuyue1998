@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyue1998&show_icons=true&theme=radical)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xuyue1998)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **xuyue1998/xuyue1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
