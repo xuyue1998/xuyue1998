@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xuyue1998&show_icons=true&locale=en" alt="xuyue1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xuyue1998&" alt="xuyue1998" /></p>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xuyue1998)](https://github.com/anuraghazra/github-readme-stats)
