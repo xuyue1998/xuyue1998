@@ -30,5 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xuyue1998&" alt="xuyue1998" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xuyue1998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xuyue1998)](https://github.com/anuraghazra/github-readme-stats)
